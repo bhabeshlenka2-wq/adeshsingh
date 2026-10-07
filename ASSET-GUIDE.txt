@@ -1,0 +1,6 @@
+PHOTO SECTION: assets/images/
+VIDEO SECTION: assets/videos/
+LOGO: assets/images/logo.jpeg
+
+Replace the five photo filenames referenced in index.html with the final photos.
+Add the three MP4 filenames referenced in index.html.
